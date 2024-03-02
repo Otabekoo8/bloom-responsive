@@ -1,0 +1,22 @@
+.service-inn{
+    background-image: url(./assets/images/service.svg);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.portfolio-inn{
+    background-image: url(./assets/images/portfilio.svg);
+    margin-top: 150px;
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.client-in{
+    background-image: url(./assets/images/Group2.svg);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
